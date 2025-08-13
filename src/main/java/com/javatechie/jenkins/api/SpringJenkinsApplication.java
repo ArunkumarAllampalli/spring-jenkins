@@ -22,6 +22,7 @@ public class SpringJenkinsApplication {
 		logger.info("=============================Application Executed===============================");
 
 		SpringApplication.run(SpringJenkinsApplication.class, args);
+		logger.info("******************************************************************************");
 	}
 
 }
